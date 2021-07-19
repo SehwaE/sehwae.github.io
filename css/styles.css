@@ -209,11 +209,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #a8b4ae;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #a8b4ae;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -7353,7 +7353,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #e0ece6 !important;
+  color: #adb4b0 !important;
 }
 
 .text-secondary {
